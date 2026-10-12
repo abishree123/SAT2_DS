@@ -1,0 +1,15 @@
+facility,date,start,end,purpose
+Lab A,2026-09-01,09:00,11:00,Programming Lab
+Lab A,2026-09-01,11:00,13:00,Programming Lab
+Lab B,2026-09-01,09:00,10:00,Practice
+Room 101,2026-09-01,10:00,11:00,Lecture
+Room 102,2026-09-01,10:00,11:00,Lecture
+Library Hall,2026-09-01,09:00,12:00,Study
+Seminar Hall,2026-09-01,14:00,16:00,Seminar
+Lab A,2026-09-02,09:00,11:00,Programming Lab
+Lab B,2026-09-02,13:00,15:00,Practice
+Room 101,2026-09-02,10:00,12:00,Lecture
+Room 102,2026-09-02,14:00,15:00,Tutorial
+Library Hall,2026-09-02,09:00,12:00,Study
+Seminar Hall,2026-09-02,10:00,12:00,Workshop
+Lab A,2026-09-02,09:00,11:00,Programming Lab

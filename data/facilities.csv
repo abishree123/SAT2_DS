@@ -1,0 +1,7 @@
+facility,type,capacity,block
+Lab A,Computer Lab,60,Block A
+Lab B,Computer Lab,60,Block A
+Room 101,Classroom,40,Block B
+Room 102,Classroom,40,Block B
+Library Hall,Library,100,Block C
+Seminar Hall,Common Area,120,Block C

@@ -1,0 +1,8 @@
+facility,issue,downtime_hours
+Lab A,Projector fault,2.0
+Lab B,Network issue,5.0
+Room 101,Air conditioning fault,3.0
+Room 102,Lighting issue,1.0
+Library Hall,Wi-Fi issue,4.0
+Seminar Hall,Audio system fault,6.0
+Lab B,Network issue,

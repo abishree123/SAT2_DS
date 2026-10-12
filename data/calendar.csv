@@ -1,0 +1,6 @@
+date,working_day,event,exam_period
+2026-09-01,True,Regular Classes,False
+2026-09-02,True,Midterm Assessment,True
+2026-09-03,True,Midterm Assessment,True
+2026-09-04,True,Regular Classes,False
+2026-09-05,False,Weekend,False
